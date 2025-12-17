@@ -13,7 +13,7 @@
 | Jon Gjengset     | [YouTube](https://www.youtube.com/@jonhoo)           | очень полезно |
 | Daniel Hirsch    | [YouTube](https://www.youtube.com/@HirschDaniel)     | просто чел |
 | sphaerophoria    | [YouTube](https://www.youtube.com/@sphaerophoria)    | гений |
-| Xi816            | [YouTube]([https://www.youtube.com/@yglyglya])       | бог |
+| Xi816            | [YouTube](https://www.youtube.com/@yglyglya)       | бог |
 | Rust Std Docs    | [Документация](https://doc.rust-lang.org/std/)       | база |
 | YourBasic        | [Сайт](https://yourbasic.org/)                       | крутой проект |
 | Metanit          | [Сайт](https://metanit.com/)                         | для вката |
