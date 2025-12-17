@@ -6,7 +6,7 @@
 
 **Языки:** 🦀 Rust, 🐹 Golang, 📘 Clang, ✨ JavaScript (HTML/CSS), 🐍 Python, 🐚 Bash, , 🗄️ SQL
 
-**Инструменты:** 🍏 MacOS, 🐧 Linux, 📝 Neovim, 🌐 Chrome, , 🤖 ChatGPT
+**Инструменты:** 🍏 MacOS, 🐧 Linux, 📝 Neovim, 🌐 Chrome, 🤖 ChatGPT, 🔧 Git
 
 ### 📚 Источники знаний:
 
