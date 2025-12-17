@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🛠 Технологический стек
-**Языки:** 🦀 Rust, 🐹 Golang, 📘 Clang, ✨ JavaScript, 🐍 Python, 🐚 Bash  
+**Языки:** 🦀 Rust, 🐹 Golang, 📘 Clang, ✨ JavaScript (HTML/CSS), 🐍 Python, 🐚 Bash, , 🗄️ SQL
 **Инструменты:** 🍏 MacOS, 📝 Neovim, 🌐 Chrome
 
 ### 📚 Источники знаний:
