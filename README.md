@@ -6,7 +6,7 @@
 
 **Языки:** 🦀 Rust, 🐹 Golang, 📘 Clang, ✨ JavaScript (HTML/CSS), 🐍 Python, 🐚 Bash, , 🗄️ SQL
 
-**Инструменты:** 🍏 MacOS, 🐧 Linux, 📝 Neovim, 🌐 Chrome
+**Инструменты:** 🍏 MacOS, 🐧 Linux, 📝 Neovim, 🌐 Chrome, , 🤖 ChatGPT
 
 ### 📚 Источники знаний:
 
@@ -21,7 +21,6 @@
 | Rust Std Docs    | [Документация](https://doc.rust-lang.org/std/)       | база |
 | YourBasic        | [Сайт](https://yourbasic.org/)                       | крутой проект |
 | Metanit          | [Сайт](https://metanit.com/)                         | для вката |
-| ChatGPT          | [Сайт](https://chat.openai.com/)                     | делает разницу |
 | GitHub           | [Сайт](https://github.com/)                          | база |
 
 
