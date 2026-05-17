@@ -18,7 +18,7 @@
 | Xi816            | [YouTube](https://www.youtube.com/@yglyglya)         | god |
 | Rust Std Docs    | [Документация](https://doc.rust-lang.org/std/)       | rust doc |
 | YourBasic        | [Сайт](https://yourbasic.org/)                       | golang |
-| Metanit          | [Сайт](https://metanit.com/)                         | Website about programming |
+| Metanit          | [Сайт](https://metanit.com/)                         | website about programming |
 | GitHub           | [Сайт](https://github.com/)                          | - |
 
 
