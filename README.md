@@ -15,7 +15,6 @@
 | Jon Gjengset     | [YouTube](https://www.youtube.com/@jonhoo)           | rust |
 | Daniel Hirsch    | [YouTube](https://www.youtube.com/@HirschDaniel)     | c |
 | sphaerophoria    | [YouTube](https://www.youtube.com/@sphaerophoria)    | zig |
-| Xi816            | [YouTube](https://www.youtube.com/@yglyglya)         | - |
 | Rust Std Docs    | [Документация](https://doc.rust-lang.org/std/)       | rust |
 | YourBasic        | [Сайт](https://yourbasic.org/)                       | golang |
 | Metanit          | [Сайт](https://metanit.com/)                         | - |
