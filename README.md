@@ -18,7 +18,6 @@
 | Rust Std Docs    | [Документация](https://doc.rust-lang.org/std/)       | rust |
 | YourBasic        | [Сайт](https://yourbasic.org/)                       | golang |
 | Metanit          | [Сайт](https://metanit.com/)                         | - |
-| GitHub           | [Сайт](https://github.com/)                          | - |
 
 
 
